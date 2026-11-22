@@ -21,3 +21,6 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+# Tutorial companion scripts are .sql files: keep them tracked.
+!sql-server-*/*.sql
