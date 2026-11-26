@@ -7,3 +7,4 @@ Source materials for example published in Videos or used for Training.
 - [Grouping and totals with ROLLUP, CUBE and GROUPING SETS](sql-server-group-by-rollup-cube-grouping-sets/) (SQL Server 2008+ / Azure SQL)
 - [Ranking functions: ROW_NUMBER, RANK, DENSE_RANK and NTILE](sql-server-ranking-functions-row-number-rank-dense-rank-ntile/) (SQL Server 2008+ / Azure SQL)
 - [Indexing: clustered, nonclustered, key lookups and INCLUDE](sql-server-indexing-clustered-nonclustered-key-lookup-include/) (SQL Server 2008+ / Azure SQL)
+- [Date and time functions: CONVERT, FORMAT and sargable date filters](sql-server-date-functions-convert-format-sargable-dates/) (SQL Server 2008+ / Azure SQL)
